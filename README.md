@@ -26,4 +26,4 @@
 
 ## License
 
-© 2016 Roman Krasavtsev
+Copyright © 2016 Roman Krasavtsev
