@@ -1,4 +1,4 @@
-# WorkInStartups
+# WorkInStartup
 
 [Место, где стартапы и таланты находят друг друга.](http://workinstartup.ru/)
 
