@@ -1,6 +1,6 @@
 # WorkInStartups
 
-[Место, где стартапы и таланты находят друг друга.](http://workinstartups.ru/)
+[Место, где стартапы и таланты находят друг друга.](http://workinstartup.ru/)
 
 ## Todo list:
 
@@ -11,7 +11,7 @@
   - [ ] Поле подписки на еженедельную рассылку
   - [ ] Ссылки на социальные сети:
     - [ ] https://twitter.com/WorkInStartupRU
-    - [ ] https://vk.com/workinstartups
+    - [ ] https://vk.com/workinstartup
     - [ ] facebook
 - [ ] Регистрация работодателей
   - [ ] Личная страница
