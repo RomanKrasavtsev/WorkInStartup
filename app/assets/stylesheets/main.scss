@@ -28,10 +28,63 @@
   text-decoration: underline;
 }
 
+.navbar-right {
+  margin-top: 4px;
+}
+
 a .fa {
   padding-right: 5px;
 }
 
 .fa-rocket {
-  margin-top: -18px;
+  margin-top: -25px;
+}
+
+.slogan {
+  font-size: 13px;
+}
+
+.flickr>li>a {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.row {
+  margin-top: 10px;
+}
+
+.panel {
+  color: white;
+  border-radius: 2px;
+  box-shadow: none;
+  border-color: white;
+  background-color: transparent;
+}
+
+svg path, svg polygon {
+  fill: white !important;
+}
+
+svg {
+  height: 50px;
+}
+
+input {
+  border-radius: 2px;
+}
+
+.btn-default {
+  color: white;
+  background-color: transparent;
+  border-color: white;
+  border-radius: 2px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
 }

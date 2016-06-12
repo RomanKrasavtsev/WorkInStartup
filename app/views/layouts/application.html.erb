@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>WorkInStartups</title>
+  <%= favicon_link_tag %>
   <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
   <script src="https://use.fontawesome.com/3ccc081c6a.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -27,8 +28,9 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="#">
-            <i class="fa fa-rocket fa-3x" aria-hidden="true">  </i> Work In Startup
-
+            <i class="fa fa-rocket fa-3x" aria-hidden="true"></i>
+            <span class="projectname">Work In Startup</span>
+            <div class="slogan">Место, где стартапы и таланты находят друг друга</div>
           </a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
@@ -41,12 +43,17 @@
       </div><!--/.container-fluid -->
     </nav>
 
-    <%= yield %>
+    <div class="yield">
+      <%= yield %>
+    <div>
 
     <nav class="navbar navbar-default navbar-fixed-bottom">
       <div class="container">
         <ul class="nav navbar-nav">
           <li> © Copyright 2016 Roman Krasavtsev</li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right flickr">
+          <li><a href="https://flic.kr/p/rsLKND"><i class="fa fa-flickr" aria-hidden="true"></i>Flickr / © manhhai</a></li>
         </ul>
       </div>
     </nav>
@@ -54,3 +61,6 @@
   </div>
 </body>
 </html>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter37920630 = new Ya.Metrika({ id:37920630, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/37920630" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->

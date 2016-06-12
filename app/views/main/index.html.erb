@@ -1,3 +1,54 @@
-<div>
-  <p>Для стартапов</p>
+<div class="row">
+  <div class="col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h4>
+          <%= image_tag("unicorn.svg", class: "svg") %>          
+          <b>Для стартапов</b>
+        </h4>
+        <ul>
+          <li>Найдите сооснователя или подходящего Вам сотрудника</li>
+          <li>Расскажите миру о себе</li>
+          <li>Размещайте вакансии абсолютно <b>бесплатно</b></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h4>
+          <%= image_tag("brain.svg", class: "svg") %>
+          <b>Для талантов</b>
+        </h4>
+        <ul>
+          <li>Выберите лучшего работодателя в интересующей Вас сфере</li>
+          <li>Узнайте о технологиях, которые применяют компании</li>
+          <li>Найдите команду своей мечты</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6 col-sm-offset-3">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h4>
+          <%= image_tag("intrigued.svg", class: "svg") %>
+          <b>Интересно?</b>
+        </h4>
+        <br>
+        <div class="row">
+          <div class="col-sm-4">
+            <button class="btn btn-default" data-toggle="collapse" data-target="#secret">Узнать больше</button>
+          </div>
+          <div id="secret" class="col-sm-4 col-sm-offset-4 collapse">
+            <a href="mailto:roman@workinstartup.ru">roman@workinstartup.ru</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
