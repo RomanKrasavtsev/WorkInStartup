@@ -12,7 +12,7 @@
   - [ ] Ссылки на социальные сети:
     - [ ] https://twitter.com/WorkInStartupRU
     - [ ] https://vk.com/workinstartup
-    - [ ] Facebook
+    - [ ] https://www.facebook.com/workinstartup/
     - [ ] Telegram @WorkInStartup_Bot
 - [ ] Регистрация работодателей
   - [ ] Личная страница
