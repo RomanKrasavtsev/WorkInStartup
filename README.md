@@ -1,6 +1,6 @@
-# WorkInStartup
+# Work In Startup
 
-[Место, где стартапы и таланты находят друг друга.](http://workinstartup.ru/)
+[Место, где стартапы и таланты находят друг друга](http://workinstartup.ru/)
 
 ## Todo list:
 
@@ -10,9 +10,10 @@
   - [ ] Список категорий
   - [ ] Поле подписки на еженедельную рассылку
   - [ ] Ссылки на социальные сети:
-    - [ ] https://twitter.com/WorkInStartupRU
-    - [ ] https://vk.com/workinstartup
-    - [ ] https://www.facebook.com/workinstartup/
+    - [x] https://twitter.com/WorkInStartup
+    - [x] https://vk.com/workinstartup
+    - [x] https://www.facebook.com/workinstartup/
+    - [x] https://youtube.com
     - [ ] Telegram @WorkInStartup_Bot
 - [ ] Регистрация работодателей
   - [ ] Личная страница
@@ -43,4 +44,4 @@
 
 ## License
 
-Copyright © 2016 Roman Krasavtsev
+© 2016 Roman Krasavtsev
