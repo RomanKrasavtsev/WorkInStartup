@@ -44,11 +44,6 @@ a .fa {
   font-size: 13px;
 }
 
-.flickr>li>a {
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
-
 .row {
   margin-top: 10px;
 }
@@ -87,4 +82,13 @@ a {
 a:hover {
   color: white;
   text-decoration: underline;
+}
+
+.social {
+  list-style: none;
+  padding-left: 25px;
+}
+
+ul li {
+  padding-bottom: 5px;
 }
