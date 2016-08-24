@@ -1,4 +1,6 @@
-{<img src="https://codeclimate.com/github/RomanKrasavtsev/WorkInStartup/badges/gpa.svg" />}[https://codeclimate.com/github/RomanKrasavtsev/WorkInStartup]
+<a href="https://codeclimate.com/github/RomanKrasavtsev/WorkInStartup">
+  <img src="https://codeclimate.com/github/RomanKrasavtsev/WorkInStartup/badges/gpa.svg" />
+</a>
 {<img src="https://travis-ci.org/RomanKrasavtsev/WorkInStartup.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/RomanKrasavtsev/WorkInStartup]
 
 #Work In Startup
