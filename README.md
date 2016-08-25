@@ -49,6 +49,35 @@
   - [ ] Запуск отправки писем по расписанию
 - [ ] Автоматический экспорт новой вакансии в социальные сети (1 вакансия раз в 30 минут, час, три и т.д. в зависимости от нагрузки)
 
+### Таблицы
+main
+all-jobs
+  jobs
+    title
+    category
+    company
+    salary
+login
+sign up
+price
+company
+  name
+  city
+  info
+  stack
+  photo
+  address
+  contact
+city
+  country
+  name
+category
+  name
+subscribe
+  email
+  name
+search
+
 ##License
 
 © 2016 Roman Krasavtsev
