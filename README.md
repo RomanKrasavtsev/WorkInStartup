@@ -1,8 +1,11 @@
+<a href="https://travis-ci.org/RomanKrasavtsev/WorkInStartup">
+  <img src="https://travis-ci.org/RomanKrasavtsev/WorkInStartup.svg?branch=master" alt="Build Status" />
+</a>
 <a href="https://codeclimate.com/github/RomanKrasavtsev/WorkInStartup">
   <img src="https://codeclimate.com/github/RomanKrasavtsev/WorkInStartup/badges/gpa.svg" />
 </a>
-<a href="https://travis-ci.org/RomanKrasavtsev/WorkInStartup">
-  <img src="https://travis-ci.org/RomanKrasavtsev/WorkInStartup.svg?branch=master" alt="Build Status" />
+<a href='https://gemnasium.com/github.com/RomanKrasavtsev/WorkInStartup'>
+  <img src="https://gemnasium.com/badges/github.com/RomanKrasavtsev/WorkInStartup.svg" alt="Dependency Status" />
 </a>
 
 #Work In Startup
