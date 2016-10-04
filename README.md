@@ -14,6 +14,7 @@
 
 ##Todo list:
 
+- [ ] Add New Relic license to ENV on Heroku
 - [ ] Главная страница
   - [ ] Список TOP 30 вакансий
   - [ ] Полнотекстовый поиск по вакансиям
